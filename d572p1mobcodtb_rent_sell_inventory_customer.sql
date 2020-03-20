@@ -1,0 +1,10 @@
+INSERT INTO rent_sell_inventory.customer (id_customer, first_name, last_name, address, phone, email, passport_number) VALUES (4, 'John', 'Bena', 'New addres', '546843654', 'asfqw@,ad.com', '124');
+INSERT INTO rent_sell_inventory.customer (id_customer, first_name, last_name, address, phone, email, passport_number) VALUES (1, 'Flex', 'Brown', 'New addres', '41561654', 'asfqw@,ad.com', '789456');
+INSERT INTO rent_sell_inventory.customer (id_customer, first_name, last_name, address, phone, email, passport_number) VALUES (2, 'Jordan', 'Brown', 'New addres', '41561654', 'asfqw@,ad.com', '124545');
+INSERT INTO rent_sell_inventory.customer (id_customer, first_name, last_name, address, phone, email, passport_number) VALUES (3, '5Alex', 'Arown', 'New addres', '546843654', 'asfqw@,ad.com', '12345');
+INSERT INTO rent_sell_inventory.customer (id_customer, first_name, last_name, address, phone, email, passport_number) VALUES (6, '3Alex', 'Brown', 'New addres', '546843654', 'asfqw@,ad.com', '1664578687');
+INSERT INTO rent_sell_inventory.customer (id_customer, first_name, last_name, address, phone, email, passport_number) VALUES (7, '3Alex', 'Brown', 'New addres', '546843654', 'asfqw@,ad.com', '1234');
+INSERT INTO rent_sell_inventory.customer (id_customer, first_name, last_name, address, phone, email, passport_number) VALUES (8, '1Alex', 'Drown', 'New addres', '41561654', 'asfqw@,ad.com', null);
+INSERT INTO rent_sell_inventory.customer (id_customer, first_name, last_name, address, phone, email, passport_number) VALUES (9, '2Alex', 'Drown', 'New addres', '41561654', 'asfqw@,ad.com', null);
+INSERT INTO rent_sell_inventory.customer (id_customer, first_name, last_name, address, phone, email, passport_number) VALUES (5, '4Alex', 'Brown', 'New addres', '546843654', 'asfqw@,ad.com', '156');
+INSERT INTO rent_sell_inventory.customer (id_customer, first_name, last_name, address, phone, email, passport_number) VALUES (10, 'Drey', 'Joh', 'Ven, 54 st A', '462548974', 'gjqw@mao.com', null);

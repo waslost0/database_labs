@@ -1,0 +1,9 @@
+INSERT INTO rent_sell_inventory.account (id_account, id_customer, payment_method, account_name, account_details) VALUES (1, 1, 'cash', 'asdqwe', null);
+INSERT INTO rent_sell_inventory.account (id_account, id_customer, payment_method, account_name, account_details) VALUES (2, 2, 'card', 'qwf123g', null);
+INSERT INTO rent_sell_inventory.account (id_account, id_customer, payment_method, account_name, account_details) VALUES (3, 3, 'cash', 'fgqwg123', null);
+INSERT INTO rent_sell_inventory.account (id_account, id_customer, payment_method, account_name, account_details) VALUES (4, 4, 'card', 'alexajo', null);
+INSERT INTO rent_sell_inventory.account (id_account, id_customer, payment_method, account_name, account_details) VALUES (5, 5, 'cash', 'morey', null);
+INSERT INTO rent_sell_inventory.account (id_account, id_customer, payment_method, account_name, account_details) VALUES (6, 6, 'cash', 'morey', null);
+INSERT INTO rent_sell_inventory.account (id_account, id_customer, payment_method, account_name, account_details) VALUES (7, 7, 'cash', 'drake', null);
+INSERT INTO rent_sell_inventory.account (id_account, id_customer, payment_method, account_name, account_details) VALUES (8, 8, 'cash', 'cos', null);
+INSERT INTO rent_sell_inventory.account (id_account, id_customer, payment_method, account_name, account_details) VALUES (9, 9, 'cash', 'lay', null);
